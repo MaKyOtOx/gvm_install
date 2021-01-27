@@ -5,7 +5,7 @@ Usage:
 
 Ubuntu:
 ```
-wget https://raw.githubusercontent.com/yu210148/gvm_install/master/install_gvm.sh
+wget https://raw.githubusercontent.com/MaKyOtOx/gvm_install/master/install_gvm.sh
 chmod +x install_gvm.sh
 sudo ./install_gvm.sh 
 ```
@@ -15,7 +15,7 @@ Debian:
 ```
 apt install sudo
 usermod -aG sudo <your-user-name> # add your user to the sudoer's group
-wget https://raw.githubusercontent.com/yu210148/gvm_install/master/install_gvm.sh
+wget https://raw.githubusercontent.com/MaKyOtOx/gvm_install/master/install_gvm.sh
 chmod +x install_gvm.sh
 sudo -i
 ./install_gvm.sh
